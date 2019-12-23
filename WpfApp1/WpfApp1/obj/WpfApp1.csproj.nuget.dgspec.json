@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/jose/RiderProjects/WpfApp1/WpfApp1/WpfApp1.csproj": {}
+  },
+  "projects": {
+    "/home/jose/RiderProjects/WpfApp1/WpfApp1/WpfApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jose/RiderProjects/WpfApp1/WpfApp1/WpfApp1.csproj",
+        "projectName": "WpfApp1",
+        "projectPath": "/home/jose/RiderProjects/WpfApp1/WpfApp1/WpfApp1.csproj",
+        "packagesPath": "/home/jose/.nuget/packages/",
+        "outputPath": "/home/jose/RiderProjects/WpfApp1/WpfApp1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jose/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
