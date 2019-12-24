@@ -14,7 +14,7 @@
         "outputPath": "/home/jose/RiderProjects/datingApp/DatingApp.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jose/.config/NuGet/NuGet.Config"
+          "/home/jose/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
